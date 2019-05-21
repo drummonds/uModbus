@@ -17,7 +17,7 @@ TCP/IP are listed together with their size in bytes:
 | PDU           | N               |
 +---------------+-----------------+
 
-Below you see an hexidecimal presentation of request over TCP/IP with Modbus
+Below you see an hexadecimal presentation of request over TCP/IP with Modbus
 function code 1. It requests data of slave with 1, starting at coil 100, for
 the length of 3 coils:
 
